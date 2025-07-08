@@ -15,11 +15,11 @@ MindMate is a multifaceted AI chatbot that goes beyond the conventional chatbot 
 
 ## Features
 ### 1. Buddy Mode: Engage in friendly conversations with your AI buddy for companionship.
-In Buddy Mode, CareCompanion becomes your virtual friend, providing companionship and engaging conversations. Whether you need someone to talk to or share your thoughts with, the chatbot is there to offer a listening ear and friendly responses.   
+In Buddy Mode, MindMate becomes your virtual friend, providing companionship and engaging conversations. Whether you need someone to talk to or share your thoughts with, the chatbot is there to offer a listening ear and friendly responses.   
 ### 2. Tutor Mode: Receive personalized tutoring sessions tailored to your learning needs.
-Switch to Tutor Mode when you're ready to learn. CareCompanion transforms into a knowledgeable tutor, delivering personalized tutoring sessions tailored to your learning preferences. From answering questions to providing explanations, the chatbot adapts to your pace and style, making learning enjoyable.
+Switch to Tutor Mode when you're ready to learn. MindMate transforms into a knowledgeable tutor, delivering personalized tutoring sessions tailored to your learning preferences. From answering questions to providing explanations, the chatbot adapts to your pace and style, making learning enjoyable.
 ### 3. Mental Health Mode: Access support for your mental well-being.
-Activate Mental Health Mode when you need emotional support or assistance. CareCompanion is here to provide a helping hand, offering empathetic conversations, coping strategies, and resources for mental well-being. Whether you're feeling stressed, anxious, or simply need someone to talk to, the chatbot is designed to assist and provide comfort.
+Activate Mental Health Mode when you need emotional support or assistance. MindMate is here to provide a helping hand, offering empathetic conversations, coping strategies, and resources for mental well-being. Whether you're feeling stressed, anxious, or simply need someone to talk to, the chatbot is designed to assist and provide comfort.
 
 
 ## Who Can Benefit?
