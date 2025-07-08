@@ -6,17 +6,7 @@
     <h1 style="display: inline-block; margin-bottom:0px">MindMate</h1>
     <h3>Your AI Ally for Companionship and Learning</h3>
 <!--     <h4><i>Chatbot -----xxx</i></h4> -->
-       <br>
-    
    
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> 
-    
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-    <!-- <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/> -->
-    <!-- <img src="https://img.shields.io/badge/redux-%23316192.svg?style=for-the-badge&logo=redux&logoColor=white"/> -->
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <br><br>
-    </div>
 </div>
 
 
