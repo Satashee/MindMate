@@ -3,15 +3,14 @@
 </div>
 <div id="user-content-toc">
   <div align="center"> 
-    <h1 style="display: inline-block; margin-bottom:0px">CareCompanion</h1>
+    <h1 style="display: inline-block; margin-bottom:0px">MindMate</h1>
     <h3>Your AI Ally for Companionship and Learning</h3>
 <!--     <h4><i>Chatbot -----xxx</i></h4> -->
        <br>
-    <img src="https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <!-- <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> -->
+    
+   
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> 
+    
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <!-- <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/> -->
     <!-- <img src="https://img.shields.io/badge/redux-%23316192.svg?style=for-the-badge&logo=redux&logoColor=white"/> -->
@@ -20,11 +19,9 @@
     </div>
 </div>
 
-![image](https://github.com/roskzhu/CareCompanion/assets/110139243/e95430ad-b3c9-4321-8b46-c5f8431da416)
-<!-- <img src="Home.svg"> -->
 
 
-CareCompanion is a multifaceted AI chatbot that goes beyond the conventional chatbot experience. It serves as both a friendly companion and an everyday assistant, offering users a versatile and enriching interaction. 
+MindMate is a multifaceted AI chatbot that goes beyond the conventional chatbot experience. It serves as both a friendly companion and an everyday assistant, offering users a versatile and enriching interaction. 
 
 ## Features
 ### 1. Buddy Mode: Engage in friendly conversations with your AI buddy for companionship.
@@ -49,11 +46,9 @@ Before you begin, ensure you have met the following requirements:
 - [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed for the frontend.
 - [Python](https://www.python.org/) and [pip](https://pip.pypa.io/en/stable/) installed for the backend.
 
-## Architecture Overview
-![CareCompanion drawio](https://github.com/roskzhu/CareCompanion/assets/110139243/6f5418f6-d8cb-4b87-ad62-3b72b126b17b)
 
 ## Next Steps
-Take CareCompanion on the go by creating a dedicated mobile app version :)
+Take MindMap on the go by creating a dedicated mobile app version :)
 
 ## Getting Started
 
